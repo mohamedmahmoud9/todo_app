@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center">A minimal Todo mobile app made using <a href="https://flutter.dev" target="_blank">Flutter</a>.</h4>
-<p>
+<p align="center">
 <img src="assets/images/app_icon.png" width="100" />
 </p>
 
