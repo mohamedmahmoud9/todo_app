@@ -17,3 +17,7 @@
 
 * Easily add and remove tasks
 * Organize tasks under categories.
+
+## New
+
+* Daily Reminder Notification 
