@@ -21,3 +21,4 @@
 ## New
 
 * Daily Reminder Notification.
+* APP icon  <img src="assets/images/app_icon.png" width="20" />
