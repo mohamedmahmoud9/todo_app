@@ -15,9 +15,9 @@
 
 ## Key Features
 
-* Easily add and remove tasks
+* Easily add and remove tasks.
 * Organize tasks under categories.
 
 ## New
 
-* Daily Reminder Notification 
+* Daily Reminder Notification.
